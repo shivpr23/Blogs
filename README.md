@@ -1,4 +1,4 @@
-# Blog Project
+# Blogs
 
 ## About the Project
 This is a simple blog page displaying readable content. The blog is designed to be lightweight and efficient, providing users with an easy way to read articles.
@@ -18,8 +18,8 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/blog-project.git
-   cd blog-project
+   git clone https://github.com/yourusername/blogs.git
+   cd blogs
    ```
 2. Install dependencies:
    ```sh
