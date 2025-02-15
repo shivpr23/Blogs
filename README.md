@@ -40,5 +40,5 @@ Ensure you have the following installed on your system:
 
 ## Contact
 For any questions or collaboration inquiries, feel free to reach out:
-- **GitHub:** [yourusername](https://github.com/shivpr23)
+- **GitHub:** [shivpr23](https://github.com/shivpr23)
 
